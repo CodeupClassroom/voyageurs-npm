@@ -1,0 +1,6 @@
+public/main.js
+*.map
+node_modules
+.idea
+*.iml
+package-lock.json
