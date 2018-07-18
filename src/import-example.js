@@ -1,11 +1,11 @@
 // IMPORT WITH SEPARATE EXPORTS
 
-    export const importMessage = "Hello from import example!";
-    export const anotherMessage = "Another howdy!";
-
-    export const sayLastName = lastName => {
-        console.log(`My name is: ${lastName}`);
-    };
+    // export const importMessage = "Hello from import example!";
+    // export const anotherMessage = "Another howdy!";
+    //
+    // export const sayLastName = lastName => {
+    //     console.log(`My name is: ${lastName}`);
+    // };
 
 
 
